@@ -1,6 +1,9 @@
-#### **Key Features**
+#### \*\*Key features
 
-**Resource management with web portal**
+\*\*
+
+**Resource management with web portal  
+**
 
 * User management: Add/Edit/Delete user account
 * Customer management: Import/Add/Edit/Delete customer information
@@ -12,17 +15,15 @@
 * Customer visit history: 
 * Customer contract history: 
 
-
-
-**Scheduling and dispatching with web portal**
+**Scheduling and dispatching with web portal  
+**
 
 * Intuitive calendar based Scheduling & Dispatcher : Calendar \(Timeline, weekly and monthly\) and Job List provides real time job monitoring and highly efficient control of job processing
 * Create ad-hoc job from customer call and schedule on the calendar form the job list by drag & drop operation
 * Automatic creation and scheduling of recursive jobs by M/A contracts
 
-
-
-**Field service work with mobile App**
+**Field service work with mobile App  
+**
 
 * Job list for the login technician
 * Select a job and check-in
