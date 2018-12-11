@@ -23,7 +23,7 @@
 
 
 
-1.3	Advantages 
+1.3    Advantages
 
 * Mobile service report includes billing information as well as work description 
 * Send mobile service report to the server and customer as soon as submitting the job
