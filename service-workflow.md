@@ -1,82 +1,34 @@
-#### Administrator
+#### Administrator** **
 
+**Sign Up  
+**Create company account and ADMIN user at FMS portal.
 
+**Add Users  
+**Add technician information such as name, email, mobile number, password, etc.
 
-**Install mobile App    
-**Download and install FMS mobile App from Google Play or Apple App store.
+**Add Products  
+**Add popular brands and model names of customer products.
 
-**Log in to App    
-**Log in with technician’s email account and password. And then job list will be shown.
+**Add Parts  
+**Add spare part name information such as brand, model, etc. This spare part list does not keep actual stock information. It will be used just for select list on the mobile service form.
 
-**Check-in for job    
-**Select a job and check-in to start the job and then open the service report.
+**Add Checklist  
+**Add your equipment checklist such as categories and items, etc.
 
-**Complete service report forms    
-**Fill out forms such as Product, Checklist, Parts, and take photos.
+**Add Ad-hoc jobs  
+**Add job for on-demand service request from customer call. This is not the case of M/A contract jobs.
 
-**Preview service report & signatures    
-**Once completed forms, preview service report and take signatures of technician and customer.
-
-**Submit job    
-**After completing forms and signatures, submit the service report. Service report will be sent to the service portal and customer via email.
-
-**Sign Up**
-
-Create company account and ADMIN user at FMS portal.
-
-
-
-**Add Users**
-
-Add technician information such as name, email, mobile number, password, etc.
-
-
-
-**Add Products**
-
-Add popular brands and model names of customer products.
-
-
-
-**Add Parts**
-
-Add spare part name information such as brand, model, etc. This spare part list does not keep actual stock information. It will be used just for select list on the mobile service form.
-
-
-
-**Add Checklist**
-
-Add your equipment checklist such as categories and items, etc.
-
-
-
-**Add Ad-hoc jobs**
-
-Add job for on-demand service request from customer call. This is not the case of M/A contract jobs.
-
-
-
-**Add Customers \( and Contracts\)**
-
-Add customer information such as name, contact, address, etc.
+**Add Customers \( and Contracts\)  
+**Add customer information such as name, contact, address, etc.
 
 You can also add contract information together when bulk uploading customers.
 
+**Add Contracts & M/A jobs  
+**Add preventive maintenance contract information such as customer, products, contract period, visit interval, price, etc. Once contracts have been added, M/A jobs to visit during contract period will be automatically created and scheduled.
 
+**Scheduling & Dispatch  
+**With calendar based scheduler, ADMIN can change visit date & time, assign \(Dispatch\) technician\(s\) to a job. ADMIN can also set repeated visit schedule for M/A contract jobs.
 
-**Add Contracts & M/A jobs**
-
-Add preventive maintenance contract information such as customer, products, contract period, visit interval, price, etc. Once contracts have been added, M/A jobs to visit during contract period will be automatically created and scheduled.
-
-
-
-**Scheduling & Dispatch**
-
-With calendar based scheduler, ADMIN can change visit date & time, assign \(Dispatch\) technician\(s\) to a job. ADMIN can also set repeated visit schedule for M/A contract jobs.
-
-
-
-**Tracking job status**
-
-With Calendar, Job List, and Map View, ADMIN can keep track of processing status of all jobs in real time.
+**Tracking job status  
+**With Calendar, Job List, and Map View, ADMIN can keep track of processing status of all jobs in real time.
 
