@@ -1,8 +1,8 @@
-### **Login**
+### Login
 
-##### Access to FMS site
+**Access to FMS site**
 
-Open FMS site “eformfms.com” with your web browser.
+Open FMS site “eformfms.com” with your web browser.
 
 ![](/assets/login.png)
 
@@ -10,7 +10,7 @@
 
 ##### Create Account
 
-Click Create Account on the login page and then CRAETE ACCOUNT page opens.
+Click Create Account on the login page and then CRAETE ACCOUNT page opens.
 
 ![](/assets/create-account.png)
 
@@ -19,25 +19,18 @@
 * In ACCOUNT section, enter your company email for login account and ADMIN user information.
 * Click Create button. And then you and your company will be ready to use our service.
 
-
-
-**Login**
+**Login**
 
 ![](/assets/login-credentials.png)
 
-**Log In**
+**Log In**
 
-Once you have created account successfully, the login page will open. Log in to the service as ADMIN user with email account and password. ADMIN user is allowed all permissions to control all service resources. 
+Once you have created account successfully, the login page will open. Log in to the service as ADMIN user with email account and password. ADMIN user is allowed all permissions to control all service resources.
 
-When you log in again, if your browser settings allow cookies, the browser will remember your account and password. If you closed browser without logging out and try to log in again, the browser will automatically open FMS landing page without logging in again.
+When you log in again, if your browser settings allow cookies, the browser will remember your account and password. If you closed browser without logging out and try to log in again, the browser will automatically open FMS landing page without logging in again.
 
-**Forgot Password?**
+**  
+Forgot Password?**
 
 Click the text and enter your email address. It will send your new password to the email address you entered.
-
-
-
-
-
-
 
