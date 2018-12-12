@@ -6,4 +6,5 @@
   * [Key features](overview/key-features.md)
   * [Service workflow](overview/service-workflow.md)
 * [Login](login.md)
+* [Screen layout](screen-layout.md)
 
