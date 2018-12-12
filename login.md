@@ -1,14 +1,12 @@
 ### Login
 
-**Access to FMS site**
+#### **Access to FMS site**
 
 Open FMS site “eformfms.com” with your web browser.
 
 ![](/assets/login.png)
 
-##### 
-
-##### Create Account
+#### Create Account
 
 Click Create Account on the login page and then CRAETE ACCOUNT page opens.
 
@@ -19,7 +17,7 @@ Click Create Account on the login page and then CRAETE ACCOUNT page opens.
 * In ACCOUNT section, enter your company email for login account and ADMIN user information.
 * Click Create button. And then you and your company will be ready to use our service.
 
-**Login**
+#### **Login**
 
 ![](/assets/login-credentials.png)
 
