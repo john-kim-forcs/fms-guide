@@ -34,7 +34,7 @@
 
 #### Technician
 
-1. Install mobile App
+1. Install mobile App**
    Download and install FMS mobile App from Google Play or Apple App store.
 
 2. Log in to App
