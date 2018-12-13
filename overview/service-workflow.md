@@ -2,7 +2,8 @@
 
 #### Administrator** **
 
-1. **Sign Up       **Create company account and ADMIN user at FMS portal.
+1. **Sign Up       
+    *Create company account and ADMIN user at FMS portal.
 2. **Add Users       **Add technician information such as name, email, mobile number, password, etc.
 3. **Add Products       **Add popular brands and model names of customer products.
 4. **Add Parts       **Add spare part name information such as brand, model, etc. This spare part list does not keep actual stock information. It will be used just for select list on the mobile service form.
