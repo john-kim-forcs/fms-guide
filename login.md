@@ -4,7 +4,7 @@
 
 Open FMS site “eformfms.com” with your web browser.
 
-![](/assets/login.png)
+
 
 #### Create Account
 
