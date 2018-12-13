@@ -1,4 +1,4 @@
 1. item 
-    * 1.1\. item
-    * 1.2\. item
+    * item1
+    * item2
 2. item 
