@@ -8,7 +8,7 @@ Open FMS site “eformfms.com” with your web browser.
 
 Click Create Account on the login page and then CRAETE ACCOUNT page opens.
 
-
+![](/assets/create-account.png)
 
 * The red asterisk \* indicates the field is required.
 * In COMPANY section, enter your company information. Company name and address are required.
@@ -16,8 +16,6 @@ Click Create Account on the login page and then CRAETE ACCOUNT page opens.
 * Click Create button. And then you and your company will be ready to use our service.
 
 #### **Login**
-
-
 
 **Log In**
 
