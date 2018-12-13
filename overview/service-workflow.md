@@ -51,6 +51,3 @@
 
 6. Submit job  
    After completing forms and signatures, submit the service report. Service report will be sent to the service portal and customer via email.
-
-
-
