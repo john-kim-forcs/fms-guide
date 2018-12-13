@@ -2,7 +2,7 @@
 
 #### Administrator** **
 
-1. **Sign Up       
+1. Sign Up       
     * Create company account and ADMIN user at FMS portal.
 2. **Add Users       **Add technician information such as name, email, mobile number, password, etc.
 3. **Add Products       **Add popular brands and model names of customer products.
