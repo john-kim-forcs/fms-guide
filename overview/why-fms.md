@@ -1,6 +1,6 @@
-### Why OZ FMS?
+## Why OZ FMS?
 
-**With OZ FMS, service companies will be enabled to do:**
+#### **With OZ FMS, service companies will be enabled to do:**
 
 * Automatic repeated M/A job scheduling by MA contract information
 * Ad-hoc job scheduling
@@ -11,7 +11,7 @@
 * Capturing proof of service \(photo, customer signature, technician signature, service date-time\)
 * On-line submission of mobile service report to the back office
 
-**Benefits**
+#### **Benefits**
 
 * Keep track of job status and technician location in real-time
 * Effective utilization of technicians and time
@@ -21,7 +21,7 @@
 * Technician looks more professional
 * No need to hire IT staffs
 
-**Advantages**
+#### **Advantages**
 
 * Mobile service report includes billing information as well as work description 
 * Send mobile service report to the server and customer as soon as submitting the job
